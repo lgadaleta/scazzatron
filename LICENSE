@@ -1,0 +1,54 @@
+Scazzatron - Freeware License
+
+Copyright (c) 2026 A. Lucio Gadaleta. All rights reserved.
+
+"Scazzatron" means the program, the evaluation network and the other files in
+this package, in the form distributed by the author (the "Software").
+
+1. Grant of use
+   You may use the Software free of charge, for any non-commercial purpose:
+   playing, analysis, research, testing, tournaments, and inclusion in rating
+   lists and public tests of chess engines.
+
+2. Redistribution
+   You may redistribute the complete and unmodified package, free of charge,
+   provided that this license and all copyright notices are included and the
+   files are not altered.
+
+3. Restrictions
+   Except as expressly allowed above, and except to the extent that applicable
+   law allows an activity despite this limitation, you may not:
+   a) modify, adapt, translate or create derivative works of the Software;
+   b) decompile, disassemble or reverse engineer the Software;
+   c) extract the evaluation network or other data files for use in another
+      program;
+   d) sell, rent, lease, sublicense or charge for the Software, or include it
+      in a commercial product or service, without the written permission of
+      the author;
+   e) remove or alter any copyright or license notice.
+
+4. Ownership
+   The Software is licensed, not sold. All rights not expressly granted are
+   reserved by the author.
+
+5. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+6. Limitation of liability
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+7. Termination
+   This license ends automatically if you breach it. You must then stop using
+   and distributing the Software and delete your copies.
+
+8. Third-party components
+   The Software contains code from third parties, licensed under their own
+   terms, which are reproduced in the "licenses" folder of the package (Syzygy
+   tablebase probing code, MIT license). Those terms apply to those components
+   only.
+
